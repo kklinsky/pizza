@@ -1,0 +1,155 @@
+{
+	"name":"Just Pizza & Wing Co.",
+	"toppings":[
+		{
+			"name":"cheese",
+			"meat":false
+		}, 
+		{
+			"name":"pepperoni",
+			"meat":true
+		}, 
+		{
+			"name":"mushrooms",
+			"meat":false
+		}, 
+		{
+			"name":"anchovies",
+			"meat":true
+		}, 
+		{
+			"name":"artichoke hearts",
+			"meat":false
+		}, 
+		{
+			"name":"hot banana peppers",
+			"meat":false
+		}, 
+		{
+			"name":"black olives",
+			"meat":false
+		}, 
+		{
+			"name":"breaded eggplant",
+			"meat":false
+		}, 
+		{
+			"name":"cherries",
+			"meat":false
+		}, 
+		{
+			"name":"chicken sausage",
+			"meat":false
+		}, 
+		{
+			"name":"fresh broccoli",
+			"meat":false
+		}, 
+		{
+			"name":"fresh spinach",
+			"meat":false
+		}, 
+		{
+			"name":"fresh tomatoes",
+			"meat":false
+		}, 
+		{
+			"name":"green olives",
+			"meat":false
+		}, 
+		{
+			"name":"hamburger",
+			"meat":true
+		}, 
+		{
+			"name":"hot cherry peppers",
+			"meat":false
+		}, 
+		{
+			"name":"Italian sausage",
+			"meat":true
+		}, 
+		{
+			"name":"margherita pepperoni",
+			"meat":true
+		}, 
+		{
+			"name":"minced garlic",
+			"meat":false
+		}, 
+		{
+			"name":"onions",
+			"meat":false
+		}, 
+		{
+			"name":"pineapple",
+			"meat":false
+		}, 
+		{
+			"name":"roasted red peppers",
+			"meat":false
+		}, 
+		{
+			"name":"smokehouse bacon",
+			"meat":true
+		}, 
+		{
+			"name":"sun dried tomatoes",
+			"meat":false
+		}, 
+		{
+			"name":"sweet peppers",
+			"meat":false
+		}, 
+		{
+			"name":"fresh mushrooms",
+			"meat":false
+		}, 
+		{
+			"name":"ricotta",
+			"cheese":true
+		}, 
+		{
+			"name":"cheddar",
+			"cheese":false
+		}, 
+		{
+			"name":"fontinella",
+			"cheese":false
+		}, 
+		{
+			"name":"sirloin steak",
+			"meat":true
+		}, 
+		{
+			"name":"chicken",
+			"meat":true
+		}, 
+		{
+			"name":"chicken fingers",
+			"meat":true
+		}
+	],
+	"recipes":[
+		{
+			"name":"Grandma's Pizza",
+			"toppings": [
+				"cheese",
+				"extra virgin olive oil",
+				"garlic",
+				"shallots",
+				"basil"
+			]
+		},
+		{
+			"name":"Grandma's Pizza",
+			"toppings": [
+				"cheese",
+				"extra virgin olive oil",
+				"garlic",
+				"shallots",
+				"basil"
+			]
+		}
+	]
+}
